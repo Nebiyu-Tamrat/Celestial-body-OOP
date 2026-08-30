@@ -31,4 +31,4 @@ jobs:
         run: cmake --build build
 
       - name: Run application
-        run: ./build/src/main.cpp
+        run: ./build/celestial-body
