@@ -10,6 +10,7 @@ The repository also serves as a practical DevOps learning project for practicing
 
 ## Project Structure
 
+```text
 Celestial-body-OOP/
 ├── .github/
 │   └── workflows/
